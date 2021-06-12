@@ -1,30 +1,9 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: 2021-06-12 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Progreso**: Comence a crear mi perfil de GitHub, y realice el segundo informe semi-automatizado para el proyecto que actualmente trabajo BDI Consultora
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Comentarios:** Quise hacer graficos con la leyenda de cada uno, y con pandas_ta, pero todavia no pude. Por el momento solo pude realizarlos con matplotlib. Lo bueno es que esta casi todo automatizado, solo falta juntarlo y ver como hacer que me lo imprima solo en PDF con el formato diseñado
 
 **Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
