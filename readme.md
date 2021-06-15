@@ -23,4 +23,5 @@ La imagen izquierda es del dia de ayer y la derecha de hoy. Se puede ver que el 
 
 **Comentarios:** Quise hacer graficos con la leyenda de cada uno, y con pandas_ta, pero todavia no pude. Por el momento solo pude realizarlos con matplotlib. Lo bueno es que esta casi todo automatizado, solo falta juntarlo y ver como hacer que me lo imprima solo en PDF con el formato diseñado
 
-**Link to work:** [Monitor CEDEARs](https://github.com/xfrancomaciel/100-days-of-code/blob/cd15ccaaddc3b544bd532eaeebe962bdaa5de9c5/Monitor%20CEDEARs%20N%C2%BA2%20(11-06-21).pdf)
+**Link to work:** [Monitor CEDEARs Nº2 (11-06-21)](https://github.com/xfrancomaciel/100-days-of-code/files/6651941/Monitor.CEDEARs.N.2.11-06-21.pdf)
+
