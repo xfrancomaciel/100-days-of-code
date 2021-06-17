@@ -1,5 +1,11 @@
 # 100 Days Of Code
 
+### Day 5: 06-16 
+
+**Progreso**: Utilice la libreria request para extraer datos de bonos, los cuales no podia descargar de ningun otro lado que no sea pago. Los encontre en la pagina de rava.com
+
+_
+
 ### Day 4: 06-15 
 
 **Progreso**: Aprendi a imprimir datos desde Spyder a Google Sheets, conectandome con la API. Proximamente voy a probar si puedo usar los datos de pandas que use dias anteriores 
