@@ -1,5 +1,15 @@
 # 100 Days Of Code
 
+
+### Day 6: 06-17 
+
+**Progreso**: Me cuesta llevar un ritmo de aprendizaje continuo y agregar algo todos los dias, asi que hoy para no cortar la racha, dejo algo lo que logre hasta ahora (tambien utilizando otras librerias)
+
+Rendimiento acumulado en el mismo grafico de cualquier ticker en yfinance
+![rendcumulado](https://user-images.githubusercontent.com/43462439/122509645-7f454b80-cfda-11eb-94ef-d593065119c5.png)
+
+_
+
 ### Day 5: 06-16 
 
 **Progreso**: Utilice la libreria request para extraer datos de bonos, los cuales no podia descargar de ningun otro lado que no sea pago. Los encontre en la pagina de rava.com
