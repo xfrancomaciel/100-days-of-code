@@ -1,8 +1,4 @@
 # 100 Days Of Code
-
-### Day 10: 06-23
-
-**Progreso**: 
 ### Day 12: 06-23
 
 **Progreso**: Buscando automatizar los reportes para la consultora que trabajo, estoy comenzando a utilizar FPDF, para imprimir los graficos y datos analizados en un reporte en pdf
