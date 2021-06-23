@@ -1,13 +1,47 @@
 # 100 Days Of Code
 
+### Day 10: 06-23
+
+**Progreso**: 
+
+_
+
+### Day 10: 06-22
+
+**Progreso**: 
+
+_
+
+### Day 10: 06-21
+
+**Progreso**: 
+
+_
+
+### Day 9: 06-20
+
+**Progreso**: Logre descargar y procesar en formato DataFrame (o tabla) indicadores fundamtentales de una cartera de activos
+![image](https://user-images.githubusercontent.com/43462439/123157615-23971a00-d441-11eb-8220-bd44665d3494.png)
+_
+
+### Day 8: 06-19
+
+**Progreso**: Con las corrleaciones calculadas el dia de ayer, logre multiplicarlo para una cartera y armar un heatmap con correlacion entre mas de dos activos
+![image](https://user-images.githubusercontent.com/43462439/123156485-b931aa00-d43f-11eb-8635-e6958f5d738f.png)
+_
+
+
+### Day 7: 06-18 
+
+**Progreso**: Logre calcular correlacion entre los precios diarios de cierre de dos activos (con los precios ajustados y utilizando yfinance)
+![image](https://user-images.githubusercontent.com/43462439/123156739-04e45380-d440-11eb-9ee3-4f601e01f03b.png)
+
+_
 
 ### Day 6: 06-17 
 
-**Progreso**: Me cuesta llevar un ritmo de aprendizaje continuo y agregar algo todos los dias, asi que hoy para no cortar la racha, dejo algo lo que logre hasta ahora (tambien utilizando otras librerias)
-
-Rendimiento acumulado en el mismo grafico de cualquier ticker en yfinance
+**Progreso**:Rendimiento acumulado en el mismo grafico de cualquier ticker en yfinance
 ![rendcumulado](https://user-images.githubusercontent.com/43462439/122509645-7f454b80-cfda-11eb-94ef-d593065119c5.png)
-
 _
 
 ### Day 5: 06-16 
