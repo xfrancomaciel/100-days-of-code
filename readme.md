@@ -3,24 +3,33 @@
 ### Day 10: 06-23
 
 **Progreso**: 
+### Day 12: 06-23
+
+**Progreso**: Buscando automatizar los reportes para la consultora que trabajo, estoy comenzando a utilizar FPDF, para imprimir los graficos y datos analizados en un reporte en pdf
+
+![image](https://user-images.githubusercontent.com/43462439/123166654-074caa80-d44c-11eb-9d14-c40a8cb04172.png)
 
 _
 
-### Day 10: 06-22
+### Day 11: 06-22
 
-**Progreso**: 
+**Progreso**: Utilice la libreria TextBlob para hacer traducciones ingles-español y tener todas las historias de las empresas argentinas 
+![image](https://user-images.githubusercontent.com/43462439/123165456-a2448500-d44a-11eb-9da6-e75e0c890363.png)
 
 _
 
 ### Day 10: 06-21
 
-**Progreso**: 
+**Progreso**: Utilice la libreria mplfinance para graficar velas de AAPL, con medias moviles de 20/50 y volumen. Tambien los maximos y minimos historicos a 1y
+
+![image](https://user-images.githubusercontent.com/43462439/123164952-fbf87f80-d449-11eb-82f8-cc8b088801a1.png)
 
 _
 
 ### Day 9: 06-20
 
 **Progreso**: Logre descargar y procesar en formato DataFrame (o tabla) indicadores fundamtentales de una cartera de activos
+
 ![image](https://user-images.githubusercontent.com/43462439/123157615-23971a00-d441-11eb-8220-bd44665d3494.png)
 _
 
