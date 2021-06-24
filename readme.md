@@ -1,4 +1,13 @@
 # 100 Days Of Code
+
+### Day 13: 06-24
+
+**Progreso**: Cree un script que nos devuelve si el ticker se encuentra en maximos historicos y en el caso que no, a que % se encuentra y cuanto deberia subir para hacer un nuevo maximo
+
+![image](https://user-images.githubusercontent.com/43462439/123343142-8fec4900-d527-11eb-8506-17cf151dbdaf.png)
+
+_
+
 ### Day 12: 06-23
 
 **Progreso**: Buscando automatizar los reportes para la consultora que trabajo, estoy comenzando a utilizar FPDF, para imprimir los graficos y datos analizados en un reporte en pdf
