@@ -1,5 +1,17 @@
 # 100 Days Of Code
 
+### Day 15: 06-26
+
+**Progreso**: 
+
+_
+
+### Day 14: 06-25
+
+**Progreso**: 
+
+_
+
 ### Day 13: 06-24
 
 **Progreso**: Cree un script que nos devuelve si el ticker se encuentra en maximos historicos y en el caso que no, a que % se encuentra y cuanto deberia subir para hacer un nuevo maximo
