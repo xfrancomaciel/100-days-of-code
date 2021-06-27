@@ -2,13 +2,15 @@
 
 ### Day 15: 06-26
 
-**Progreso**: 
+**Progreso**: No se como paso esto (insertar emoji de cabeza explotando), pero en dos lineas logre graficar una cartera de activos para un periodo determinado. Esto se esta poniendo bueno, y recien van 15 dias...
+
+![image](https://user-images.githubusercontent.com/43462439/123531435-f8c7f280-d6da-11eb-801c-c8d64a4d2e9e.png)
 
 _
 
 ### Day 14: 06-25
 
-**Progreso**: 
+**Progreso**: Hasta hoy experimente y cree 30 archivos .py en los cuales aprendi a prueba y error. Leyendo libros, buscando en internet, probando codigo, viendo tutoriales, y con objetivos claros. Hoy todos esos archivos los comence a compactar en un solo archivo llamado "functions" para llamar a cada una desde mis propias creaciones y un repertorio de funciones pre-creadas. Es increible el poder que tiene saber programar.
 
 _
 
