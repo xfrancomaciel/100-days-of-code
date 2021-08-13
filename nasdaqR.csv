@@ -1,0 +1,104 @@
+,symbol,sector,industry
+0,AAL,Industrials,Airlines
+1,AAPL,Technology,Consumer Electronics
+2,ACBI,Financial Services,Banks—Regional
+3,ADBE,Technology,Software—Infrastructure
+4,ADI,Technology,Semiconductors
+5,ADP,Industrials,Staffing & Employment Services
+6,ADSK,Technology,Software—Application
+7,ALGN,Healthcare,Medical Devices
+8,ALXN,Healthcare,Biotechnology
+9,AMAT,Technology,Semiconductor Equipment & Materials
+10,AMGN,Healthcare,Drug Manufacturers—General
+11,AMZN,Consumer Cyclical,Internet Retail
+12,ASML,Technology,Semiconductor Equipment & Materials
+13,ATVI,Communication Services,Electronic Gaming & Multimedia
+14,AVGO,Technology,Semiconductors
+15,BABA,Consumer Cyclical,Internet Retail
+16,BIDU,Communication Services,Internet Content & Information
+17,BIIB,Healthcare,Drug Manufacturers—General
+18,BKNG,Consumer Cyclical,Travel Services
+19,BMRN,Healthcare,Biotechnology
+20,CARA,Healthcare,Biotechnology
+21,CDNS,Technology,Software—Application
+22,CERN,Healthcare,Health Information Services
+23,CHKP,Technology,Software—Infrastructure
+24,CHTR,Communication Services,Entertainment
+25,CMCSA,Communication Services,Entertainment
+26,COST,Consumer Defensive,Discount Stores
+27,CSCO,Technology,Communication Equipment
+28,CSX,Industrials,Railroads
+29,CTAS,Industrials,Specialty Business Services
+30,CTSH,Technology,Information Technology Services
+31,CTXS,Technology,Software—Application
+32,DLTR,Consumer Defensive,Discount Stores
+33,EA,Communication Services,Electronic Gaming & Multimedia
+34,EBAY,Consumer Cyclical,Internet Retail
+36,EXPE,Consumer Cyclical,Travel Services
+37,FAST,Industrials,Industrial Distribution
+38,FB,Communication Services,Internet Content & Information
+39,FISV,Technology,Information Technology Services
+40,GILD,Healthcare,Drug Manufacturers—General
+41,GLOB,Technology,Software—Application
+42,GOOG,Communication Services,Internet Content & Information
+43,GOOGL,Communication Services,Internet Content & Information
+44,HAS,Consumer Cyclical,Leisure
+45,HOLX,Healthcare,Medical Instruments & Supplies
+46,HSIC,Healthcare,Medical Distribution
+47,IDXX,Healthcare,Diagnostics & Research
+48,ILMN,Healthcare,Diagnostics & Research
+49,INCY,Healthcare,Biotechnology
+50,INTC,Technology,Semiconductors
+51,INTU,Technology,Software—Application
+52,ISRG,Healthcare,Medical Instruments & Supplies
+53,JBHT,Industrials,Integrated Freight & Logistics
+54,JD,Consumer Cyclical,Internet Retail
+55,KHC,Consumer Defensive,Packaged Foods
+56,KLAC,Technology,Semiconductor Equipment & Materials
+57,LBTYA,Communication Services,Entertainment
+58,LBTYK,Communication Services,Entertainment
+59,LRCX,Technology,Semiconductor Equipment & Materials
+60,MAR,Consumer Cyclical,Lodging
+61,MCHP,Technology,Semiconductors
+62,MDLZ,Consumer Defensive,Confectioners
+63,MELI,Consumer Cyclical,Internet Retail
+64,MNST,Consumer Defensive,Beverages—Non-Alcoholic
+65,MSFT,Technology,Software—Infrastructure
+66,MU,Technology,Semiconductors
+67,MXIM,Technology,Semiconductors
+68,NFLX,Communication Services,Entertainment
+69,NLOK,Technology,Software—Infrastructure
+70,NTES,Communication Services,Internet Content & Information
+71,NVDA,Technology,Semiconductors
+72,NXPI,Technology,Semiconductors
+73,ORLY,Consumer Cyclical,Specialty Retail
+74,PAAS,Basic Materials,Silver
+75,PAYX,Industrials,Staffing & Employment Services
+76,PCAR,Industrials,Farm & Heavy Construction Machinery
+77,PEP,Consumer Defensive,Beverages—Non-Alcoholic
+78,PYPL,Financial Services,Credit Services
+79,QCOM,Technology,Semiconductors
+80,QRTEA,Consumer Cyclical,Internet Retail
+81,REGN,Healthcare,Biotechnology
+82,ROST,Consumer Cyclical,Apparel Retail
+83,SBUX,Consumer Cyclical,Restaurants
+84,SIRI,Communication Services,Broadcasting
+85,SNPS,Technology,Software—Infrastructure
+86,STX,Technology,Computer Hardware
+87,SWKS,Technology,Semiconductors
+88,TCOM,Consumer Cyclical,Travel Services
+89,TMUS,Communication Services,Telecom Services
+90,TSLA,Consumer Cyclical,Auto Manufacturers
+91,TTWO,Communication Services,Electronic Gaming & Multimedia
+93,ULTA,Consumer Cyclical,Specialty Retail
+94,VOD,Communication Services,Telecom Services
+95,VRSK,Industrials,Consulting Services
+96,VRTX,Healthcare,Biotechnology
+97,WBA,Healthcare,Pharmaceutical Retailers
+98,WDAY,Technology,Software—Application
+99,WDC,Technology,Computer Hardware
+100,WISH,Consumer Cyclical,Internet Retail
+101,WYNN,Consumer Cyclical,Resorts & Casinos
+102,XLNX,Technology,Semiconductors
+103,XRAY,Healthcare,Medical Instruments & Supplies
+104,ZM,Technology,Software—Application

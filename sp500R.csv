@@ -1,0 +1,471 @@
+,symbol,sector,industry
+0,A,Healthcare,Diagnostics & Research
+1,AAL,Industrials,Airlines
+2,AAP,Consumer Cyclical,Specialty Retail
+3,AAPL,Technology,Consumer Electronics
+4,ABBV,Healthcare,Drug Manufacturers—General
+5,ABC,Healthcare,Medical Distribution
+6,ABMD,Healthcare,Medical Devices
+7,ABT,Healthcare,Medical Devices
+8,ACN,Technology,Information Technology Services
+9,ADBE,Technology,Software—Infrastructure
+10,ADI,Technology,Semiconductors
+11,ADM,Consumer Defensive,Farm Products
+12,ADP,Industrials,Staffing & Employment Services
+13,ADS,Financial Services,Credit Services
+14,ADSK,Technology,Software—Application
+15,AEE,Utilities,Utilities—Regulated Electric
+16,AEP,Utilities,Utilities—Regulated Electric
+17,AES,Utilities,Utilities—Diversified
+18,AFL,Financial Services,Insurance—Life
+19,AGRO,Consumer Defensive,Farm Products
+20,AIG,Financial Services,Insurance—Diversified
+21,AIV,Real Estate,REIT—Residential
+22,AIZ,Financial Services,Insurance—Specialty
+23,AJG,Financial Services,Insurance Brokers
+24,AKAM,Technology,Software—Infrastructure
+25,ALB,Basic Materials,Specialty Chemicals
+26,ALGN,Healthcare,Medical Devices
+27,ALK,Industrials,Airlines
+28,ALL,Financial Services,Insurance—Property & Casualty
+29,ALLE,Industrials,Security & Protection Services
+30,ALXN,Healthcare,Biotechnology
+31,AMAT,Technology,Semiconductor Equipment & Materials
+32,AMD,Technology,Semiconductors
+33,AME,Industrials,Specialty Industrial Machinery
+34,AMG,Financial Services,Asset Management
+35,AMGN,Healthcare,Drug Manufacturers—General
+36,AMP,Financial Services,Asset Management
+37,AMT,Real Estate,REIT—Specialty
+38,AMZN,Consumer Cyclical,Internet Retail
+39,ANET,Technology,Computer Hardware
+40,ANSS,Technology,Software—Application
+41,ANTM,Healthcare,Healthcare Plans
+42,AON,Financial Services,Insurance Brokers
+43,AOS,Industrials,Specialty Industrial Machinery
+44,APA,Energy,Oil & Gas E&P
+45,APD,Basic Materials,Chemicals
+46,APH,Technology,Electronic Components
+47,APTV,Consumer Cyclical,Auto Parts
+48,ARE,Real Estate,REIT—Office
+49,ATVI,Communication Services,Electronic Gaming & Multimedia
+50,AVB,Real Estate,REIT—Residential
+51,AVGO,Technology,Semiconductors
+52,AVY,Industrials,Business Equipment & Supplies
+53,AWK,Utilities,Utilities—Regulated Water
+54,AXP,Financial Services,Credit Services
+55,AZO,Consumer Cyclical,Specialty Retail
+56,BA,Industrials,Aerospace & Defense
+57,BAC,Financial Services,Banks—Diversified
+58,BAX,Healthcare,Medical Instruments & Supplies
+60,BBY,Consumer Cyclical,Specialty Retail
+61,BDX,Healthcare,Medical Instruments & Supplies
+62,BEN,Financial Services,Asset Management
+63,BIIB,Healthcare,Drug Manufacturers—General
+64,BK,Financial Services,Asset Management
+65,BKNG,Consumer Cyclical,Travel Services
+66,BKR,Energy,Oil & Gas Equipment & Services
+67,BLK,Financial Services,Asset Management
+68,BLL,Consumer Cyclical,Packaging & Containers
+69,BMY,Healthcare,Drug Manufacturers—General
+70,BR,Technology,Information Technology Services
+71,BSX,Healthcare,Medical Devices
+72,BWA,Consumer Cyclical,Auto Parts
+73,BXP,Real Estate,REIT—Office
+74,C,Financial Services,Banks—Diversified
+75,CAG,Consumer Defensive,Packaged Foods
+76,CAH,Healthcare,Medical Distribution
+77,CAT,Industrials,Farm & Heavy Construction Machinery
+78,CB,Financial Services,Insurance—Property & Casualty
+79,CBOE,Financial Services,Financial Data & Stock Exchanges
+80,CBRE,Real Estate,Real Estate Services
+81,CCI,Real Estate,REIT—Specialty
+82,CCL,Consumer Cyclical,Travel Services
+83,CDNS,Technology,Software—Application
+84,CERN,Healthcare,Health Information Services
+85,CF,Basic Materials,Agricultural Inputs
+86,CFG,Financial Services,Banks—Regional
+87,CHD,Consumer Defensive,Household & Personal Products
+88,CHRW,Industrials,Integrated Freight & Logistics
+89,CHTR,Communication Services,Entertainment
+90,CI,Healthcare,Healthcare Plans
+91,CINF,Financial Services,Insurance—Property & Casualty
+92,CL,Consumer Defensive,Household & Personal Products
+93,CLX,Consumer Defensive,Household & Personal Products
+94,CMA,Financial Services,Banks—Regional
+95,CMCSA,Communication Services,Entertainment
+96,CME,Financial Services,Financial Data & Stock Exchanges
+97,CMG,Consumer Cyclical,Restaurants
+98,CMI,Industrials,Specialty Industrial Machinery
+99,CMS,Utilities,Utilities—Regulated Electric
+100,CNC,Healthcare,Healthcare Plans
+101,CNP,Utilities,Utilities—Regulated Electric
+102,COF,Financial Services,Credit Services
+103,COG,Energy,Oil & Gas E&P
+104,COO,Healthcare,Medical Instruments & Supplies
+105,COP,Energy,Oil & Gas E&P
+106,COST,Consumer Defensive,Discount Stores
+107,COTY,Consumer Defensive,Household & Personal Products
+108,CPB,Consumer Defensive,Packaged Foods
+109,CPRT,Industrials,Specialty Business Services
+110,CRM,Technology,Software—Application
+111,CSCO,Technology,Communication Equipment
+112,CSX,Industrials,Railroads
+113,CTAS,Industrials,Specialty Business Services
+114,CTSH,Technology,Information Technology Services
+115,CTXS,Technology,Software—Application
+116,CVS,Healthcare,Healthcare Plans
+117,CVX,Energy,Oil & Gas Integrated
+118,D,Utilities,Utilities—Regulated Electric
+119,DAL,Industrials,Airlines
+120,DE,Industrials,Farm & Heavy Construction Machinery
+121,DESP,Consumer Cyclical,Travel Services
+122,DFS,Financial Services,Credit Services
+123,DG,Consumer Defensive,Discount Stores
+124,DGX,Healthcare,Diagnostics & Research
+125,DHI,Consumer Cyclical,Residential Construction
+126,DHR,Healthcare,Diagnostics & Research
+127,DIS,Communication Services,Entertainment
+128,DISCA,Communication Services,Entertainment
+129,DISCK,Communication Services,Entertainment
+130,DISH,Communication Services,Entertainment
+131,DLR,Real Estate,REIT—Office
+132,DLTR,Consumer Defensive,Discount Stores
+133,DOV,Industrials,Specialty Industrial Machinery
+134,DRE,Real Estate,REIT—Industrial
+135,DRI,Consumer Cyclical,Restaurants
+136,DTE,Utilities,Utilities—Regulated Electric
+137,DUK,Utilities,Utilities—Regulated Electric
+138,DVA,Healthcare,Medical Care Facilities
+139,DVN,Energy,Oil & Gas E&P
+140,DXC,Technology,Information Technology Services
+141,EA,Communication Services,Electronic Gaming & Multimedia
+142,EBAY,Consumer Cyclical,Internet Retail
+143,ECL,Basic Materials,Specialty Chemicals
+144,ED,Utilities,Utilities—Regulated Electric
+145,EFX,Industrials,Consulting Services
+146,EIX,Utilities,Utilities—Regulated Electric
+147,EL,Consumer Defensive,Household & Personal Products
+148,EMN,Basic Materials,Chemicals
+149,EMR,Industrials,Specialty Industrial Machinery
+150,EOG,Energy,Oil & Gas E&P
+151,EQIX,Real Estate,REIT—Specialty
+152,EQR,Real Estate,REIT—Residential
+153,EQT,Energy,Oil & Gas E&P
+154,ES,Utilities,Utilities—Regulated Electric
+155,ESS,Real Estate,REIT—Residential
+156,ETN,Industrials,Specialty Industrial Machinery
+157,ETR,Utilities,Utilities—Regulated Electric
+158,EVRG,Utilities,Utilities—Regulated Electric
+159,EW,Healthcare,Medical Devices
+160,EXC,Utilities,Utilities—Diversified
+161,EXPD,Industrials,Integrated Freight & Logistics
+162,EXPE,Consumer Cyclical,Travel Services
+163,EXR,Real Estate,REIT—Industrial
+164,F,Consumer Cyclical,Auto Manufacturers
+165,FAST,Industrials,Industrial Distribution
+166,FB,Communication Services,Internet Content & Information
+167,FBHS,Consumer Cyclical,"Furnishings, Fixtures & Appliances"
+168,FCX,Basic Materials,Copper
+169,FDX,Industrials,Integrated Freight & Logistics
+170,FE,Utilities,Utilities—Regulated Electric
+171,FFIV,Technology,Software—Infrastructure
+172,FIS,Technology,Information Technology Services
+173,FISV,Technology,Information Technology Services
+174,FITB,Financial Services,Banks—Regional
+175,FL,Consumer Cyclical,Footwear & Accessories
+177,FLR,Industrials,Engineering & Construction
+178,FLS,Industrials,Specialty Industrial Machinery
+179,FLT,Technology,Information Technology Services
+180,FMC,Basic Materials,Agricultural Inputs
+181,FRT,Real Estate,REIT—Retail
+182,FTI,Energy,Oil & Gas Equipment & Services
+183,FTNT,Technology,Software—Infrastructure
+184,FTV,Technology,Scientific & Technical Instruments
+185,GD,Industrials,Aerospace & Defense
+186,GE,Industrials,Specialty Industrial Machinery
+187,GILD,Healthcare,Drug Manufacturers—General
+188,GIS,Consumer Defensive,Packaged Foods
+189,GLW,Technology,Electronic Components
+190,GM,Consumer Cyclical,Auto Manufacturers
+191,GOLD,Basic Materials,Gold
+192,GOOG,Communication Services,Internet Content & Information
+193,GOOGL,Communication Services,Internet Content & Information
+194,GPC,Consumer Cyclical,Specialty Retail
+195,GPN,Industrials,Specialty Business Services
+196,GPS,Consumer Cyclical,Apparel Retail
+197,GRMN,Technology,Scientific & Technical Instruments
+198,GS,Financial Services,Capital Markets
+199,GT,Consumer Cyclical,Auto Parts
+200,GWW,Industrials,Industrial Distribution
+201,HAL,Energy,Oil & Gas Equipment & Services
+202,HAS,Consumer Cyclical,Leisure
+203,HBAN,Financial Services,Banks—Regional
+204,HBI,Consumer Cyclical,Apparel Manufacturing
+205,HCA,Healthcare,Medical Care Facilities
+206,HD,Consumer Cyclical,Home Improvement Retail
+207,HES,Energy,Oil & Gas E&P
+208,HFC,Energy,Oil & Gas Refining & Marketing
+209,HIG,Financial Services,Insurance—Diversified
+210,HII,Industrials,Aerospace & Defense
+211,HLT,Consumer Cyclical,Lodging
+212,HOG,Consumer Cyclical,Recreational Vehicles
+213,HOLX,Healthcare,Medical Instruments & Supplies
+214,HON,Industrials,Specialty Industrial Machinery
+215,HP,Energy,Oil & Gas Drilling
+216,HPE,Technology,Communication Equipment
+217,HPQ,Technology,Computer Hardware
+218,HRB,Consumer Cyclical,Personal Services
+219,HRL,Consumer Defensive,Packaged Foods
+220,HSIC,Healthcare,Medical Distribution
+221,HST,Real Estate,REIT—Hotel & Motel
+222,HSY,Consumer Defensive,Confectioners
+223,HUM,Healthcare,Healthcare Plans
+224,IBM,Technology,Information Technology Services
+225,ICE,Financial Services,Financial Data & Stock Exchanges
+226,IDXX,Healthcare,Diagnostics & Research
+227,IFF,Basic Materials,Specialty Chemicals
+228,ILMN,Healthcare,Diagnostics & Research
+229,INCY,Healthcare,Biotechnology
+230,INTC,Technology,Semiconductors
+231,INTU,Technology,Software—Application
+232,IP,Consumer Cyclical,Packaging & Containers
+233,IPG,Communication Services,Advertising Agencies
+234,IPGP,Technology,Semiconductor Equipment & Materials
+235,IQV,Healthcare,Diagnostics & Research
+236,IR,Industrials,Specialty Industrial Machinery
+237,IRM,Real Estate,REIT—Specialty
+238,ISRG,Healthcare,Medical Instruments & Supplies
+239,IT,Technology,Information Technology Services
+240,ITW,Industrials,Specialty Industrial Machinery
+241,IVZ,Financial Services,Asset Management
+242,JBHT,Industrials,Integrated Freight & Logistics
+243,JCI,Industrials,Engineering & Construction
+244,JEF,Financial Services,Financial Conglomerates
+245,JNJ,Healthcare,Drug Manufacturers—General
+246,JNPR,Technology,Communication Equipment
+247,JPM,Financial Services,Banks—Diversified
+248,JWN,Consumer Cyclical,Department Stores
+249,K,Consumer Defensive,Packaged Foods
+250,KEY,Financial Services,Banks—Regional
+251,KEYS,Technology,Scientific & Technical Instruments
+252,KHC,Consumer Defensive,Packaged Foods
+253,KIM,Real Estate,REIT—Retail
+254,KLAC,Technology,Semiconductor Equipment & Materials
+255,KMB,Consumer Defensive,Household & Personal Products
+256,KMI,Energy,Oil & Gas Midstream
+257,KMX,Consumer Cyclical,Auto & Truck Dealerships
+258,KO,Consumer Defensive,Beverages—Non-Alcoholic
+259,KR,Consumer Defensive,Grocery Stores
+260,KSS,Consumer Cyclical,Department Stores
+261,KSU,Industrials,Railroads
+262,L,Financial Services,Insurance—Property & Casualty
+263,LEG,Consumer Cyclical,"Furnishings, Fixtures & Appliances"
+264,LEN,Consumer Cyclical,Residential Construction
+265,LH,Healthcare,Diagnostics & Research
+266,LIN,Basic Materials,Specialty Chemicals
+268,LKQ,Consumer Cyclical,Auto Parts
+269,LLY,Healthcare,Drug Manufacturers—General
+270,LMT,Industrials,Aerospace & Defense
+271,LNC,Financial Services,Insurance—Life
+272,LNT,Utilities,Utilities—Regulated Electric
+273,LOW,Consumer Cyclical,Home Improvement Retail
+274,LRCX,Technology,Semiconductor Equipment & Materials
+275,LUMN,Communication Services,Telecom Services
+276,LUV,Industrials,Airlines
+277,LYB,Basic Materials,Specialty Chemicals
+278,M,Consumer Cyclical,Department Stores
+279,MA,Financial Services,Credit Services
+280,MAA,Real Estate,REIT—Residential
+281,MAC,Real Estate,REIT—Retail
+282,MAR,Consumer Cyclical,Lodging
+283,MAS,Industrials,Building Products & Equipment
+284,MAT,Consumer Cyclical,Leisure
+285,MCD,Consumer Cyclical,Restaurants
+286,MCHP,Technology,Semiconductors
+287,MCK,Healthcare,Medical Distribution
+288,MCO,Financial Services,Financial Data & Stock Exchanges
+289,MDLZ,Consumer Defensive,Confectioners
+290,MDT,Healthcare,Medical Devices
+291,MET,Financial Services,Insurance—Life
+292,MGM,Consumer Cyclical,Resorts & Casinos
+293,MHK,Consumer Cyclical,"Furnishings, Fixtures & Appliances"
+294,MLM,Basic Materials,Building Materials
+295,MMC,Financial Services,Insurance Brokers
+296,MMM,Industrials,Specialty Industrial Machinery
+297,MNST,Consumer Defensive,Beverages—Non-Alcoholic
+298,MO,Consumer Defensive,Tobacco
+299,MOS,Basic Materials,Agricultural Inputs
+300,MPC,Energy,Oil & Gas Refining & Marketing
+301,MRK,Healthcare,Drug Manufacturers—General
+302,MRO,Energy,Oil & Gas E&P
+303,MS,Financial Services,Capital Markets
+304,MSCI,Financial Services,Financial Data & Stock Exchanges
+305,MSFT,Technology,Software—Infrastructure
+306,MSI,Technology,Communication Equipment
+307,MTB,Financial Services,Banks—Regional
+308,MTD,Healthcare,Diagnostics & Research
+309,MU,Technology,Semiconductors
+310,NCLH,Consumer Cyclical,Travel Services
+311,NDAQ,Financial Services,Financial Data & Stock Exchanges
+312,NEE,Utilities,Utilities—Regulated Electric
+313,NEM,Basic Materials,Gold
+314,NFLX,Communication Services,Entertainment
+315,NI,Utilities,Utilities—Regulated Gas
+316,NKE,Consumer Cyclical,Footwear & Accessories
+317,NKTR,Healthcare,Biotechnology
+318,NLOK,Technology,Software—Infrastructure
+319,NLSN,Industrials,Consulting Services
+320,NOC,Industrials,Aerospace & Defense
+321,NOV,Energy,Oil & Gas Equipment & Services
+322,NRG,Utilities,Utilities—Independent Power Producers
+323,NSC,Industrials,Railroads
+324,NTAP,Technology,Computer Hardware
+325,NTRS,Financial Services,Asset Management
+326,NUE,Basic Materials,Steel
+327,NVDA,Technology,Semiconductors
+328,NWL,Consumer Defensive,Household & Personal Products
+329,NWS,Communication Services,Broadcasting
+330,NWSA,Communication Services,Broadcasting
+331,O,Real Estate,REIT—Retail
+332,OKE,Energy,Oil & Gas Midstream
+333,OMC,Communication Services,Advertising Agencies
+334,ORCL,Technology,Software—Infrastructure
+335,ORLY,Consumer Cyclical,Specialty Retail
+336,OXY,Energy,Oil & Gas E&P
+337,PAYX,Industrials,Staffing & Employment Services
+338,PBCT,Financial Services,Banks—Regional
+339,PCAR,Industrials,Farm & Heavy Construction Machinery
+340,PCG,Utilities,Utilities—Regulated Electric
+341,PEAK,Real Estate,REIT—Healthcare Facilities
+342,PEG,Utilities,Utilities—Diversified
+343,PEP,Consumer Defensive,Beverages—Non-Alcoholic
+344,PFE,Healthcare,Drug Manufacturers—General
+345,PFG,Financial Services,Insurance—Diversified
+346,PG,Consumer Defensive,Household & Personal Products
+347,PGR,Financial Services,Insurance—Property & Casualty
+348,PH,Industrials,Specialty Industrial Machinery
+349,PHM,Consumer Cyclical,Residential Construction
+350,PKG,Consumer Cyclical,Packaging & Containers
+351,PKI,Healthcare,Diagnostics & Research
+352,PLD,Real Estate,REIT—Industrial
+353,PM,Consumer Defensive,Tobacco
+354,PNC,Financial Services,Banks—Regional
+355,PNR,Industrials,Specialty Industrial Machinery
+356,PNW,Utilities,Utilities—Regulated Electric
+357,PPG,Basic Materials,Specialty Chemicals
+358,PPL,Utilities,Utilities—Regulated Electric
+359,PRGO,Healthcare,Drug Manufacturers—Specialty & Generic
+360,PRU,Financial Services,Insurance—Life
+361,PSA,Real Estate,REIT—Industrial
+362,PSX,Energy,Oil & Gas Refining & Marketing
+363,PVH,Consumer Cyclical,Apparel Manufacturing
+364,PWR,Industrials,Engineering & Construction
+365,PXD,Energy,Oil & Gas E&P
+366,PYPL,Financial Services,Credit Services
+367,QCOM,Technology,Semiconductors
+368,QRVO,Technology,Semiconductors
+369,RCL,Consumer Cyclical,Travel Services
+370,RE,Financial Services,Insurance—Reinsurance
+371,REG,Real Estate,REIT—Retail
+372,REGN,Healthcare,Biotechnology
+373,RF,Financial Services,Banks—Regional
+374,RHI,Industrials,Staffing & Employment Services
+375,RJF,Financial Services,Capital Markets
+376,RL,Consumer Cyclical,Apparel Manufacturing
+377,RMD,Healthcare,Medical Instruments & Supplies
+378,ROK,Industrials,Specialty Industrial Machinery
+379,ROL,Consumer Cyclical,Personal Services
+380,ROP,Industrials,Specialty Industrial Machinery
+381,ROST,Consumer Cyclical,Apparel Retail
+382,RSG,Industrials,Waste Management
+383,SBAC,Real Estate,REIT—Specialty
+384,SBUX,Consumer Cyclical,Restaurants
+385,SCHW,Financial Services,Capital Markets
+386,SEE,Consumer Cyclical,Packaging & Containers
+387,SHW,Basic Materials,Specialty Chemicals
+388,SIVB,Financial Services,Banks—Regional
+389,SJM,Consumer Defensive,Packaged Foods
+390,SLB,Energy,Oil & Gas Equipment & Services
+391,SLG,Real Estate,REIT—Office
+392,SNA,Industrials,Tools & Accessories
+393,SNPS,Technology,Software—Infrastructure
+394,SO,Utilities,Utilities—Regulated Electric
+395,SPG,Real Estate,REIT—Retail
+396,SPGI,Financial Services,Financial Data & Stock Exchanges
+397,SRCL,Industrials,Waste Management
+398,SRE,Utilities,Utilities—Diversified
+399,STT,Financial Services,Asset Management
+400,STX,Technology,Computer Hardware
+401,STZ,Consumer Defensive,Beverages—Wineries & Distilleries
+402,SWK,Industrials,Tools & Accessories
+403,SWKS,Technology,Semiconductors
+404,SYF,Financial Services,Credit Services
+405,SYK,Healthcare,Medical Devices
+406,SYY,Consumer Defensive,Food Distribution
+407,T,Communication Services,Telecom Services
+408,TAP,Consumer Defensive,Beverages—Brewers
+409,TDG,Industrials,Aerospace & Defense
+410,TEL,Technology,Electronic Components
+411,TGT,Consumer Defensive,Discount Stores
+412,TJX,Consumer Cyclical,Apparel Retail
+413,TMO,Healthcare,Diagnostics & Research
+414,TPR,Consumer Cyclical,Luxury Goods
+415,TRIP,Consumer Cyclical,Travel Services
+416,TROW,Financial Services,Asset Management
+417,TRV,Financial Services,Insurance—Property & Casualty
+418,TSCO,Consumer Cyclical,Specialty Retail
+419,TSN,Consumer Defensive,Farm Products
+420,TTWO,Communication Services,Electronic Gaming & Multimedia
+421,TWTR,Communication Services,Internet Content & Information
+422,TXN,Technology,Semiconductors
+423,TXT,Industrials,Aerospace & Defense
+424,UA,Consumer Cyclical,Apparel Manufacturing
+425,UAA,Consumer Cyclical,Apparel Manufacturing
+426,UAL,Industrials,Airlines
+427,UDR,Real Estate,REIT—Residential
+428,UHS,Healthcare,Medical Care Facilities
+429,ULTA,Consumer Cyclical,Specialty Retail
+430,UNH,Healthcare,Healthcare Plans
+431,UNM,Financial Services,Insurance—Life
+432,UNP,Industrials,Railroads
+433,UPS,Industrials,Integrated Freight & Logistics
+434,URI,Industrials,Rental & Leasing Services
+435,USB,Financial Services,Banks—Regional
+437,V,Financial Services,Credit Services
+438,VFC,Consumer Cyclical,Apparel Manufacturing
+439,VIAC,Communication Services,Entertainment
+440,VIST,Energy,Oil & Gas E&P
+441,VLO,Energy,Oil & Gas Refining & Marketing
+442,VMC,Basic Materials,Building Materials
+443,VNO,Real Estate,REIT—Office
+444,VRSK,Industrials,Consulting Services
+445,VRSN,Technology,Software—Infrastructure
+446,VRTX,Healthcare,Biotechnology
+447,VTR,Real Estate,REIT—Healthcare Facilities
+448,VZ,Communication Services,Telecom Services
+449,WAT,Healthcare,Diagnostics & Research
+450,WBA,Healthcare,Pharmaceutical Retailers
+451,WDC,Technology,Computer Hardware
+452,WEC,Utilities,Utilities—Regulated Electric
+453,WELL,Real Estate,REIT—Healthcare Facilities
+454,WFC,Financial Services,Banks—Diversified
+455,WHR,Consumer Cyclical,"Furnishings, Fixtures & Appliances"
+456,WLTW,Financial Services,Insurance Brokers
+457,WM,Industrials,Waste Management
+458,WMB,Energy,Oil & Gas Midstream
+459,WMT,Consumer Defensive,Discount Stores
+460,WRK,Consumer Cyclical,Packaging & Containers
+461,WU,Financial Services,Credit Services
+462,WY,Real Estate,REIT—Specialty
+463,WYNN,Consumer Cyclical,Resorts & Casinos
+464,XEC,Energy,Oil & Gas E&P
+465,XEL,Utilities,Utilities—Regulated Electric
+466,XLNX,Technology,Semiconductors
+467,XOM,Energy,Oil & Gas Integrated
+468,XRAY,Healthcare,Medical Instruments & Supplies
+469,XRX,Technology,Information Technology Services
+470,XYL,Industrials,Specialty Industrial Machinery
+471,YUM,Consumer Cyclical,Restaurants
+472,ZION,Financial Services,Banks—Regional
+473,ZTS,Healthcare,Drug Manufacturers—Specialty & Generic
