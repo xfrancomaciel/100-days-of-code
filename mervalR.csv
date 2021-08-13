@@ -1,22 +1,23 @@
-,symbol,sector,industry
-0,ALUA,Basic Materials,Aluminum
-1,BBAR,Financial Services,Banks—Regional
-2,BMA,Financial Services,Banks—Regional
-3,BYMA,Financial Services,Capital Markets
-4,CEPU,Utilities,Utilities—Regulated Electric
-5,COME,Industrials,Conglomerates
-6,CRES,Industrials,Conglomerates
-7,CVH,Communication Services,Telecom Services
-8,EDN,Utilities,Utilities—Regulated Electric
-9,GGAL,Financial Services,Banks—Regional
-10,HARG,Basic Materials,Building Materials
-11,LOMA,Basic Materials,Building Materials
-12,MIRG,Consumer Cyclical,Auto Parts
-13,PAMP,Utilities,Utilities—Regulated Electric
-14,SUPV,Financial Services,Banks—Regional
-15,TECO2,Communication Services,Telecom Services
-16,TGNO4,Energy,Oil & Gas Midstream
-17,TGSU2,Energy,Oil & Gas Integrated
-18,TRAN,Utilities,Utilities—Regulated Electric
-19,TXAR,Basic Materials,Steel
-20,VALO,Financial Services,Financial Data & Stock Exchanges
+symbol,sector,industry
+ALUA,Basic Materials,Aluminum
+BBAR,Financial Services,Banks—Regional
+BMA,Financial Services,Banks—Regional
+BYMA,Financial Services,Capital Markets
+CEPU,Utilities,Utilities—Regulated Electric
+COME,Industrials,Conglomerates
+CRES,Industrials,Conglomerates
+CVH,Communication Services,Telecom Services
+EDN,Utilities,Utilities—Regulated Electric
+GGAL,Financial Services,Banks—Regional
+HARG,Basic Materials,Building Materials
+LOMA,Basic Materials,Building Materials
+MIRG,Consumer Cyclical,Auto Parts
+PAMP,Utilities,Utilities—Regulated Electric
+SUPV,Financial Services,Banks—Regional
+TECO2,Communication Services,Telecom Services
+TGNO4,Energy,Oil & Gas Midstream
+TGSU2,Energy,Oil & Gas Integrated
+TRAN,Utilities,Utilities—Regulated Electric
+TXAR,Basic Materials,Steel
+VALO,Financial Services,Financial Data & Stock Exchanges
+YPFD,Energy,Oil & Gas Integrated
